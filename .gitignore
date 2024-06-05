@@ -1,0 +1,15 @@
+# Environment
+/the_music_controller/.env
+/venv
+/frontend/node_modules/
+
+# Database
+/db.sqlite3
+
+# Cached Data
+/the_music_controller/__pycache__/
+/the_music_controller/migrations/
+/api/__pycache__/
+/api/migrations/
+/frontend/__pycache__/
+/frontend/migrations/
