@@ -2,6 +2,7 @@
 /the_music_controller/.env
 /venv
 /frontend/node_modules/
+/frontend/static/frontend/main.js
 
 # Database
 /db.sqlite3
@@ -13,3 +14,4 @@
 /api/migrations/
 /frontend/__pycache__/
 /frontend/migrations/
+/frontend/static/frontend/main.js.LICENSE.txt
